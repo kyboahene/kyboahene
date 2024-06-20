@@ -1,12 +1,10 @@
 <h3 align="center">Hi there, I'm Yaw Kyei Boahene 👋</h3>
 <h3 align="center">A passionate software engineer from Ghana</h3>
 
-- 🔭 I am currently working on the skill club 😃
-- 🌱 I’m currently learning Java
+- 🔭 I am currently working on the <a href="https://www.theskill.club/" target="_blank"> skill club </a> 😃
 - 👯 I’m looking to collaborate with other developers to build the software that can have a great impact on people's lives😉
 - 📫 How to reach me **kyeiyaw437@gmail.com**
 - ⚡ Fun fact: I am a music lover 🎼
-
 
 ---
 
